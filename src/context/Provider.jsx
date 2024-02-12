@@ -5,8 +5,8 @@ function Provider({ children }) {
   return (
     <>
       <ProgressBar
-        height="4px"
-        color="#85586c"
+        height="6px"
+        color="#fffd00"
         options={{ showSpinner: false }}
         shallowRouting
       />
